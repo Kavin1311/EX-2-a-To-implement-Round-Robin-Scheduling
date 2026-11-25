@@ -90,6 +90,9 @@ int main() {
 
 # Output:
 <img width="484" height="481" alt="image" src="https://github.com/user-attachments/assets/8fb78105-a59a-44f0-aacc-7f4a81dd625e" />
+
+
+
 # Result:
 Thus, the C program to implement the Round Robin CPU Scheduling Algorithm was 
 executed successfully, and the Waiting Time, Turnaround Time, Average Waiting Time, and 
